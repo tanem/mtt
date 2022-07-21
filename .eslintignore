@@ -1,0 +1,4 @@
+coverage
+dist
+example/tracklist.txt
+node_modules

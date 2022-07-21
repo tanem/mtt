@@ -1,0 +1,52 @@
+{
+  "name": "@tanem/mtt",
+  "version": "1.0.0",
+  "description": ".(m)3u8 (t)o (t)racklist",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run clean && tsc -p tsconfig.base.json",
+    "check": "prettier --list-different \"**/*.{js,ts}\"",
+    "clean": "shx rm -rf dist",
+    "example": "npm run build && node example/index.js",
+    "format": "prettier --write \"**/*.{js,ts}\"",
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "author": "Tane Morgan (https://github.com/tanem)",
+  "license": "MIT",
+  "bin": {
+    "mtt": "dist/cli.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "cli",
+    "dj",
+    "export",
+    "m3u8",
+    "playlist",
+    "rekordbox",
+    "tracklist",
+    "tracks",
+    "usb"
+  ],
+  "dependencies": {
+    "commander": "^9.4.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "1.0.3",
+    "@types/jest": "28.1.6",
+    "@types/node": "18.0.6",
+    "@typescript-eslint/eslint-plugin": "5.30.7",
+    "@typescript-eslint/parser": "5.30.7",
+    "eslint": "8.20.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-simple-import-sort": "7.0.0",
+    "jest": "28.1.3",
+    "prettier": "2.7.1",
+    "shx": "0.3.4",
+    "ts-jest": "28.0.7",
+    "typescript": "4.7.4"
+  }
+}
