@@ -1,0 +1,24 @@
+{
+  "constraints": {
+    "npm": "> 8.0.0"
+  },
+  "extends": [
+    "config:js-lib",
+    ":rebaseStalePrs",
+    ":automergeAll",
+    ":label(internal)",
+    ":masterIssue",
+    ":enableVulnerabilityAlerts"
+  ],
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "packageRules": [
+    {
+      "depTypeList": ["dependencies"],
+      "rangeStrategy": "bump"
+    }
+  ],
+  "prCreation": "not-pending",
+  "stabilityDays": 3
+}
