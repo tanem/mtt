@@ -1,6 +1,6 @@
 {
   "name": "@tanem/mtt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": ".(m)3u8 (t)o (t)racklist",
   "main": "index.js",
   "scripts": {
