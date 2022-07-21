@@ -31,7 +31,7 @@ Options:
 
 ### API
 
-```
+```js
 const fs = require('fs/promises');
 const path = require('path');
 const { mtt } = require('@tanem/mtt');
