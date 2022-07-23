@@ -2,14 +2,17 @@
   "name": "@tanem/mtt",
   "version": "1.0.2",
   "description": ".(m)3u8 (t)o (t)racklist",
-  "main": "dist/src/index.js",
-  "typings": "dist/src/index.d.ts",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "sideEffects": false,
   "scripts": {
-    "build": "npm run clean && tsc -p tsconfig.base.json",
+    "prebuild": "npm run clean",
+    "build": "tsc -p tsconfig.base.json",
+    "postbuild": "shx mv dist/src/* dist && shx rm -r dist/src dist/package.json",
     "check": "prettier --list-different \"**/*.{js,ts}\"",
     "clean": "shx rm -rf dist",
-    "example": "npm run build && node example/index.js",
+    "preexample": "npm run build",
+    "example": "node example/index.js",
     "format": "prettier --write \"**/*.{js,ts}\"",
     "lint": "eslint .",
     "release": "tanem-scripts release",
@@ -18,7 +21,7 @@
   "author": "Tane Morgan (https://github.com/tanem)",
   "license": "MIT",
   "bin": {
-    "mtt": "dist/src/cli.js"
+    "mtt": "dist/cli.js"
   },
   "files": [
     "dist"
