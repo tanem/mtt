@@ -2,12 +2,12 @@
 
 import { Command } from 'commander';
 
-import { description, name, version } from '../package.json';
+import { description, version } from '../package.json';
 import { mtt } from './mtt';
 
 const program = new Command();
 
-program.name(name).description(description).version(version);
+program.name('mtt').description(description).version(version);
 
 program
   .argument('<file>', '.m3u8 file to convert to tracklist')

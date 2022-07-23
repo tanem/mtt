@@ -2,7 +2,9 @@
   "name": "@tanem/mtt",
   "version": "1.0.1",
   "description": ".(m)3u8 (t)o (t)racklist",
-  "main": "index.js",
+  "main": "dist/src/index.js",
+  "typings": "dist/src/index.d.ts",
+  "sideEffects": false,
   "scripts": {
     "build": "npm run clean && tsc -p tsconfig.base.json",
     "check": "prettier --list-different \"**/*.{js,ts}\"",
@@ -16,7 +18,7 @@
   "author": "Tane Morgan (https://github.com/tanem)",
   "license": "MIT",
   "bin": {
-    "mtt": "dist/cli.js"
+    "mtt": "dist/src/cli.js"
   },
   "files": [
     "dist"
@@ -50,5 +52,13 @@
     "tanem-scripts": "6.0.53",
     "ts-jest": "28.0.7",
     "typescript": "4.7.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "github:tanem/mtt"
+  },
+  "bugs": {
+    "url": "github:tanem/mtt/issues"
+  },
+  "homepage": "github:tanem/mtt"
 }
