@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.3](https://github.com/tanem/mtt/tree/v1.0.3) (2022-07-24)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.2...v1.0.3)
+
+#### :house: Internal
+
+- [#6](https://github.com/tanem/mtt/pull/6) Tidy up build process ([@tanem](https://github.com/tanem))
+
 ## [v1.0.2](https://github.com/tanem/mtt/tree/v1.0.2) (2022-07-23)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.1...v1.0.2)
 
