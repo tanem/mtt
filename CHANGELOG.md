@@ -1,5 +1,41 @@
 # Changelog
 
+## [v1.0.7](https://github.com/tanem/mtt/tree/v1.0.7) (2022-10-09)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.6...v1.0.7)
+
+#### :house: Internal
+
+- [#41](https://github.com/tanem/mtt/pull/41) Update jest monorepo to v29.1.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#40](https://github.com/tanem/mtt/pull/40) Update dependency commander to ^9.4.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#42](https://github.com/tanem/mtt/pull/42) Update typescript-eslint monorepo to v5.39.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#39](https://github.com/tanem/mtt/pull/39) Update dependency ts-jest to v29.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#38](https://github.com/tanem/mtt/pull/38) Update styfle/cancel-workflow-action action to v0.10.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#37](https://github.com/tanem/mtt/pull/37) Update dependency typescript to v4.8.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#36](https://github.com/tanem/mtt/pull/36) Update typescript-eslint monorepo to v5.38.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#35](https://github.com/tanem/mtt/pull/35) Update dependency ts-jest to v29.0.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#34](https://github.com/tanem/mtt/pull/34) Update dependency eslint to v8.24.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#33](https://github.com/tanem/mtt/pull/33) Use codecov action ([@tanem](https://github.com/tanem))
+- [#32](https://github.com/tanem/mtt/pull/32) Update typescript-eslint monorepo to v5.38.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#31](https://github.com/tanem/mtt/pull/31) Update dependency tanem-scripts to v6.0.60 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#22](https://github.com/tanem/mtt/pull/22) Update jest monorepo to v29 (major) ([@renovate[bot]](https://github.com/apps/renovate))
+- [#30](https://github.com/tanem/mtt/pull/30) Update typescript-eslint monorepo to v5.37.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#29](https://github.com/tanem/mtt/pull/29) Update dependency eslint to v8.23.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#28](https://github.com/tanem/mtt/pull/28) Update dependency tanem-scripts to v6.0.59 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#27](https://github.com/tanem/mtt/pull/27) Update dependency typescript to v4.8.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#26](https://github.com/tanem/mtt/pull/26) Update typescript-eslint monorepo to v5.36.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#25](https://github.com/tanem/mtt/pull/25) Update dependency eslint-plugin-simple-import-sort to v8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#24](https://github.com/tanem/mtt/pull/24) Update typescript-eslint monorepo to v5.36.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#23](https://github.com/tanem/mtt/pull/23) Update dependency eslint to v8.23.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#21](https://github.com/tanem/mtt/pull/21) Update dependency typescript to v4.8.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#20](https://github.com/tanem/mtt/pull/20) Update typescript-eslint monorepo to v5.35.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#19](https://github.com/tanem/mtt/pull/19) Update dependency @types/jest to v28.1.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#18](https://github.com/tanem/mtt/pull/18) Update dependency tanem-scripts to v6.0.58 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#17](https://github.com/tanem/mtt/pull/17) Update typescript-eslint monorepo to v5.33.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#16](https://github.com/tanem/mtt/pull/16) Update dependency @types/jest to v28.1.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#15](https://github.com/tanem/mtt/pull/15) Update dependency ts-jest to v28.0.8 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#14](https://github.com/tanem/mtt/pull/14) Update dependency tanem-scripts to v6.0.57 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#13](https://github.com/tanem/mtt/pull/13) Update dependency eslint to v8.22.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.6](https://github.com/tanem/mtt/tree/v1.0.6) (2022-08-14)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.5...v1.0.6)
 
