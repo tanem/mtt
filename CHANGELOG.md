@@ -1,5 +1,24 @@
 # Changelog
 
+## [v1.0.8](https://github.com/tanem/mtt/tree/v1.0.8) (2022-10-29)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.7...v1.0.8)
+
+#### :house: Internal
+
+- [#53](https://github.com/tanem/mtt/pull/53) Update typescript-eslint monorepo to v5.41.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#55](https://github.com/tanem/mtt/pull/55) Update dependency @types/node to v18.11.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#54](https://github.com/tanem/mtt/pull/54) Update dependency jest to v29.2.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#52](https://github.com/tanem/mtt/pull/52) Update dependency @types/node to v18.11.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#51](https://github.com/tanem/mtt/pull/51) Update dependency @types/node to v18.11.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#50](https://github.com/tanem/mtt/pull/50) Update dependency eslint to v8.26.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#49](https://github.com/tanem/mtt/pull/49) Update jest monorepo ([@renovate[bot]](https://github.com/apps/renovate))
+- [#48](https://github.com/tanem/mtt/pull/48) Update typescript-eslint monorepo to v5.40.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#47](https://github.com/tanem/mtt/pull/47) Update dependency jest to v29.2.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#46](https://github.com/tanem/mtt/pull/46) Update styfle/cancel-workflow-action action to v0.11.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#45](https://github.com/tanem/mtt/pull/45) Update typescript-eslint monorepo to v5.40.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#44](https://github.com/tanem/mtt/pull/44) Update dependency tanem-scripts to v6.0.61 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#43](https://github.com/tanem/mtt/pull/43) Update dependency eslint to v8.25.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.7](https://github.com/tanem/mtt/tree/v1.0.7) (2022-10-09)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.6...v1.0.7)
 
