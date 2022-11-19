@@ -1,7 +1,7 @@
 # Changelog
 
-## [v1.0.10](https://github.com/tanem/mtt/tree/v1.0.10) (2022-11-19)
-[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.9...v1.0.10)
+## [v1.0.11](https://github.com/tanem/mtt/tree/v1.0.11) (2022-11-19)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.9...v1.0.11)
 
 #### :house: Internal
 
