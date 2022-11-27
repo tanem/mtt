@@ -1,7 +1,20 @@
 # Changelog
 
+## [v1.0.12](https://github.com/tanem/mtt/tree/v1.0.12) (2022-11-27)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.11...v1.0.12)
+
+#### :house: Internal
+
+- [#74](https://github.com/tanem/mtt/pull/74) Update dependency prettier to v2.8.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#73](https://github.com/tanem/mtt/pull/73) Update typescript-eslint monorepo to v5.44.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#72](https://github.com/tanem/mtt/pull/72) Update dependency tanem-scripts to v6.0.64 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#71](https://github.com/tanem/mtt/pull/71) Update dependency eslint to v8.28.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.11](https://github.com/tanem/mtt/tree/v1.0.11) (2022-11-19)
-[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.9...v1.0.11)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.10...v1.0.11)
+
+## [v1.0.10](https://github.com/tanem/mtt/tree/v1.0.10) (2022-11-19)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.9...v1.0.10)
 
 #### :house: Internal
 
