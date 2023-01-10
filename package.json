@@ -38,7 +38,7 @@
     "usb"
   ],
   "dependencies": {
-    "commander": "^9.4.1"
+    "commander": "^9.5.0"
   },
   "devDependencies": {
     "@tsconfig/node16": "1.0.3",
