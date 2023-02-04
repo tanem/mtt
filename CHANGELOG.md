@@ -1,5 +1,20 @@
 # Changelog
 
+## [v1.0.19](https://github.com/tanem/mtt/tree/v1.0.19) (2023-02-04)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.18...v1.0.19)
+
+#### :house: Internal
+
+- [#122](https://github.com/tanem/mtt/pull/122) Update typescript-eslint monorepo to v5.50.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#121](https://github.com/tanem/mtt/pull/121) Update dependency typescript to v4.9.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#120](https://github.com/tanem/mtt/pull/120) Update dependency eslint to v8.33.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#119](https://github.com/tanem/mtt/pull/119) Update dependency eslint-plugin-simple-import-sort to v10 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#118](https://github.com/tanem/mtt/pull/118) Update dependency jest to v29.4.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#117](https://github.com/tanem/mtt/pull/117) Update dependency @types/jest to v29.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#116](https://github.com/tanem/mtt/pull/116) Update dependency jest to v29.4.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#115](https://github.com/tanem/mtt/pull/115) Update typescript-eslint monorepo to v5.49.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#114](https://github.com/tanem/mtt/pull/114) Update dependency @types/jest to v29.2.6 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.18](https://github.com/tanem/mtt/tree/v1.0.18) (2023-01-20)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.17...v1.0.18)
 
