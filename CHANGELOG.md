@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.20](https://github.com/tanem/mtt/tree/v1.0.20) (2023-02-12)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.19...v1.0.20)
+
+#### :house: Internal
+
+- [#128](https://github.com/tanem/mtt/pull/128) Update dependency prettier to v2.8.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#127](https://github.com/tanem/mtt/pull/127) Update dependency jest to v29.4.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#126](https://github.com/tanem/mtt/pull/126) Update dependency @types/node to v18.13.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#125](https://github.com/tanem/mtt/pull/125) Update typescript-eslint monorepo to v5.51.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#124](https://github.com/tanem/mtt/pull/124) Update dependency tanem-scripts to v6.0.70 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#123](https://github.com/tanem/mtt/pull/123) Update dependency @types/node to v18.11.19 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.19](https://github.com/tanem/mtt/tree/v1.0.19) (2023-02-04)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.18...v1.0.19)
 
