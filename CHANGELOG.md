@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.21](https://github.com/tanem/mtt/tree/v1.0.21) (2023-02-17)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.20...v1.0.21)
+
+#### :house: Internal
+
+- [#131](https://github.com/tanem/mtt/pull/131) Update typescript-eslint monorepo to v5.52.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#130](https://github.com/tanem/mtt/pull/130) Update dependency tanem-scripts to v6.0.71 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#129](https://github.com/tanem/mtt/pull/129) Update dependency eslint to v8.34.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.20](https://github.com/tanem/mtt/tree/v1.0.20) (2023-02-12)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.19...v1.0.20)
 
