@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.22](https://github.com/tanem/mtt/tree/v1.0.22) (2023-02-19)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.21...v1.0.22)
+
+#### :house: Internal
+
+- [#132](https://github.com/tanem/mtt/pull/132) Update dependency jest to v29.4.3 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.21](https://github.com/tanem/mtt/tree/v1.0.21) (2023-02-17)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.20...v1.0.21)
 
