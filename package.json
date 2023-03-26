@@ -63,5 +63,8 @@
   "bugs": {
     "url": "github:tanem/mtt/issues"
   },
-  "homepage": "github:tanem/mtt"
+  "homepage": "github:tanem/mtt",
+  "overrides": {
+    "universal-user-agent": "6.0.0"
+  }
 }
