@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.26](https://github.com/tanem/mtt/tree/v1.0.26) (2023-03-27)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.25...v1.0.26)
+
+#### :house: Internal
+
+- [#153](https://github.com/tanem/mtt/pull/153) Update tanem-scripts ([@tanem](https://github.com/tanem))
+- [#152](https://github.com/tanem/mtt/pull/152) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#151](https://github.com/tanem/mtt/pull/151) Add universal-user-agent override ([@tanem](https://github.com/tanem))
+- [#150](https://github.com/tanem/mtt/pull/150) Update dependency eslint to v8.36.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#149](https://github.com/tanem/mtt/pull/149) Update dependency tanem-scripts to v6.0.76 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#148](https://github.com/tanem/mtt/pull/148) Update dependency @types/node to v18.15.0 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.25](https://github.com/tanem/mtt/tree/v1.0.25) (2023-03-10)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.24...v1.0.25)
 
