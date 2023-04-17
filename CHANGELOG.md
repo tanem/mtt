@@ -1,7 +1,17 @@
 # Changelog
 
+## [v1.0.28](https://github.com/tanem/mtt/tree/v1.0.28) (2023-04-17)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.27...v1.0.28)
+
+#### :house: Internal
+
+- [#154](https://github.com/tanem/mtt/pull/154) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.27](https://github.com/tanem/mtt/tree/v1.0.27) (2023-03-27)
-[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.25...v1.0.27)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.26...v1.0.27)
+
+## [v1.0.26](https://github.com/tanem/mtt/tree/v1.0.26) (2023-03-27)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.25...v1.0.26)
 
 #### :house: Internal
 
