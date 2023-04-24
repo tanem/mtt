@@ -1,5 +1,27 @@
 # Changelog
 
+## [v1.0.29](https://github.com/tanem/mtt/tree/v1.0.29) (2023-04-24)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.28...v1.0.29)
+
+#### :house: Internal
+
+- [#170](https://github.com/tanem/mtt/pull/170) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#169](https://github.com/tanem/mtt/pull/169) Update dependency @types/node to v18.15.13 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#168](https://github.com/tanem/mtt/pull/168) Update dependency @types/node to v18.15.12 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#167](https://github.com/tanem/mtt/pull/167) Update dependency @types/jest to v29.5.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#166](https://github.com/tanem/mtt/pull/166) Update typescript-eslint monorepo to v5.59.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#163](https://github.com/tanem/mtt/pull/163) Update dependency ts-jest to v29.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#162](https://github.com/tanem/mtt/pull/162) Update dependency eslint-config-prettier to v8.8.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#161](https://github.com/tanem/mtt/pull/161) Update dependency eslint to v8.38.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#158](https://github.com/tanem/mtt/pull/158) Update dependency commander to ^10.0.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#160](https://github.com/tanem/mtt/pull/160) Update dependency @types/jest to v29.5.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#159](https://github.com/tanem/mtt/pull/159) Update dependency tanem-scripts to v7.0.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#156](https://github.com/tanem/mtt/pull/156) Update dependency @types/node to v18.15.11 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#164](https://github.com/tanem/mtt/pull/164) Update typescript-eslint monorepo to v5.58.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#165](https://github.com/tanem/mtt/pull/165) Update dependency typescript to v5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#157](https://github.com/tanem/mtt/pull/157) Update dependency prettier to v2.8.7 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#155](https://github.com/tanem/mtt/pull/155) Reconfigure renovate ([@tanem](https://github.com/tanem))
+
 ## [v1.0.28](https://github.com/tanem/mtt/tree/v1.0.28) (2023-04-17)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.27...v1.0.28)
 
