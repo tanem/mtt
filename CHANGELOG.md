@@ -1,5 +1,30 @@
 # Changelog
 
+## [v1.0.39](https://github.com/tanem/mtt/tree/v1.0.39) (2023-07-20)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.38...v1.0.39)
+
+#### :house: Internal
+
+- [#245](https://github.com/tanem/mtt/pull/245) Update dependency eslint to v8.45.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#244](https://github.com/tanem/mtt/pull/244) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#243](https://github.com/tanem/mtt/pull/243) Update typescript-eslint monorepo to v6 (major) ([@renovate[bot]](https://github.com/apps/renovate))
+- [#242](https://github.com/tanem/mtt/pull/242) Update typescript-eslint monorepo to v5.62.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#241](https://github.com/tanem/mtt/pull/241) Update dependency @types/jest to v29.5.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#240](https://github.com/tanem/mtt/pull/240) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#239](https://github.com/tanem/mtt/pull/239) Update dependency jest to v29.6.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#238](https://github.com/tanem/mtt/pull/238) Update dependency prettier to v3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#237](https://github.com/tanem/mtt/pull/237) Update dependency jest to v29.6.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#236](https://github.com/tanem/mtt/pull/236) Update typescript-eslint monorepo to v5.61.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#235](https://github.com/tanem/mtt/pull/235) Update dependency eslint to v8.44.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#234](https://github.com/tanem/mtt/pull/234) Update dependency @types/node to v18.16.19 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#233](https://github.com/tanem/mtt/pull/233) Update dependency tanem-scripts to v7.0.11 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#232](https://github.com/tanem/mtt/pull/232) Update dependency ts-jest to v29.1.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#231](https://github.com/tanem/mtt/pull/231) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#230](https://github.com/tanem/mtt/pull/230) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#229](https://github.com/tanem/mtt/pull/229) Update dependency typescript to v5.1.6 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#228](https://github.com/tanem/mtt/pull/228) Update dependency @tsconfig/node16 to v16 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#227](https://github.com/tanem/mtt/pull/227) Update dependency typescript to v5.1.5 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.38](https://github.com/tanem/mtt/tree/v1.0.38) (2023-06-30)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.37...v1.0.38)
 
