@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.44](https://github.com/tanem/mtt/tree/v1.0.44) (2023-09-09)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.43...v1.0.44)
+
+#### :house: Internal
+
+- [#296](https://github.com/tanem/mtt/pull/296) Update typescript-eslint monorepo to v6.6.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#295](https://github.com/tanem/mtt/pull/295) Update actions/checkout action to v4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#294](https://github.com/tanem/mtt/pull/294) Update dependency @types/node to v18.17.14 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#293](https://github.com/tanem/mtt/pull/293) Update dependency @types/node to v18.17.13 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#292](https://github.com/tanem/mtt/pull/292) Update dependency tanem-scripts to v7.0.16 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#291](https://github.com/tanem/mtt/pull/291) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#290](https://github.com/tanem/mtt/pull/290) Update dependency prettier to v3.0.3 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.43](https://github.com/tanem/mtt/tree/v1.0.43) (2023-09-01)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.42...v1.0.43)
 
