@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.45](https://github.com/tanem/mtt/tree/v1.0.45) (2023-09-16)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.44...v1.0.45)
+
+#### :house: Internal
+
+- [#302](https://github.com/tanem/mtt/pull/302) Update dependency jest to v29.7.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#301](https://github.com/tanem/mtt/pull/301) Update typescript-eslint monorepo to v6.7.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#300](https://github.com/tanem/mtt/pull/300) Update dependency tanem-scripts to v7.0.17 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#299](https://github.com/tanem/mtt/pull/299) Update dependency eslint to v8.49.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#298](https://github.com/tanem/mtt/pull/298) Update dependency @types/node to v18.17.15 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#297](https://github.com/tanem/mtt/pull/297) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.44](https://github.com/tanem/mtt/tree/v1.0.44) (2023-09-09)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.43...v1.0.44)
 
