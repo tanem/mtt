@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.0.47](https://github.com/tanem/mtt/tree/v1.0.47) (2023-09-29)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.46...v1.0.47)
+
+#### :house: Internal
+
+- [#314](https://github.com/tanem/mtt/pull/314) Update dependency @types/node to v18.18.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#313](https://github.com/tanem/mtt/pull/313) Update typescript-eslint monorepo to v6.7.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#312](https://github.com/tanem/mtt/pull/312) Update dependency @types/node to v18.17.19 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.46](https://github.com/tanem/mtt/tree/v1.0.46) (2023-09-26)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.45...v1.0.46)
 
