@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.0.48](https://github.com/tanem/mtt/tree/v1.0.48) (2023-10-07)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.47...v1.0.48)
+
+#### :house: Internal
+
+- [#320](https://github.com/tanem/mtt/pull/320) Update styfle/cancel-workflow-action action to v0.12.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#319](https://github.com/tanem/mtt/pull/319) Update dependency @types/node to v18.18.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#318](https://github.com/tanem/mtt/pull/318) Update typescript-eslint monorepo to v6.7.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#317](https://github.com/tanem/mtt/pull/317) Update dependency tanem-scripts to v7.0.20 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#316](https://github.com/tanem/mtt/pull/316) Update dependency @types/node to v18.18.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#315](https://github.com/tanem/mtt/pull/315) Update dependency tanem-scripts to v7.0.19 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.47](https://github.com/tanem/mtt/tree/v1.0.47) (2023-09-29)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.46...v1.0.47)
 
