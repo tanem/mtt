@@ -1,5 +1,18 @@
 # Changelog
 
+## [v1.0.51](https://github.com/tanem/mtt/tree/v1.0.51) (2023-11-21)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.50...v1.0.51)
+
+#### :house: Internal
+
+- [#354](https://github.com/tanem/mtt/pull/354) Update dependency eslint to v8.54.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#353](https://github.com/tanem/mtt/pull/353) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#352](https://github.com/tanem/mtt/pull/352) Update dependency @types/node to v20.9.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#351](https://github.com/tanem/mtt/pull/351) Update typescript-eslint monorepo to v6.11.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#350](https://github.com/tanem/mtt/pull/350) Update dependency prettier to v3.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#349](https://github.com/tanem/mtt/pull/349) Update dependency tanem-scripts to v7.0.23 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#348](https://github.com/tanem/mtt/pull/348) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.50](https://github.com/tanem/mtt/tree/v1.0.50) (2023-11-12)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.49...v1.0.50)
 
