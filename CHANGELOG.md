@@ -1,5 +1,37 @@
 # Changelog
 
+## [v1.0.52](https://github.com/tanem/mtt/tree/v1.0.52) (2023-12-15)
+[Full Changelog](https://github.com/tanem/mtt/compare/v1.0.51...v1.0.52)
+
+#### :house: Internal
+
+- [#380](https://github.com/tanem/mtt/pull/380) Update typescript-eslint monorepo to v6.14.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#379](https://github.com/tanem/mtt/pull/379) Update dependency prettier to v3.1.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#378](https://github.com/tanem/mtt/pull/378) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#377](https://github.com/tanem/mtt/pull/377) Update dependency @types/node to v20.10.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#376](https://github.com/tanem/mtt/pull/376) Update dependency typescript to v5.3.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#375](https://github.com/tanem/mtt/pull/375) Update dependency @types/jest to v29.5.11 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#374](https://github.com/tanem/mtt/pull/374) Update typescript-eslint monorepo to v6.13.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#373](https://github.com/tanem/mtt/pull/373) Update dependency @types/node to v20.10.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#372](https://github.com/tanem/mtt/pull/372) Update dependency eslint-config-prettier to v9.1.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#371](https://github.com/tanem/mtt/pull/371) Update dependency eslint to v8.55.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#370](https://github.com/tanem/mtt/pull/370) Update dependency @types/node to v20.10.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#369](https://github.com/tanem/mtt/pull/369) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#368](https://github.com/tanem/mtt/pull/368) Update dependency @types/node to v20.10.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#367](https://github.com/tanem/mtt/pull/367) Update typescript-eslint monorepo to v6.13.1 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#366](https://github.com/tanem/mtt/pull/366) Update typescript-eslint monorepo to v6.13.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#365](https://github.com/tanem/mtt/pull/365) Update dependency @types/node to v20.10.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#364](https://github.com/tanem/mtt/pull/364) Lock file maintenance ([@renovate[bot]](https://github.com/apps/renovate))
+- [#363](https://github.com/tanem/mtt/pull/363) Update dependency @types/node to v20.9.5 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#362](https://github.com/tanem/mtt/pull/362) Update dependency @types/node to v20.9.4 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#361](https://github.com/tanem/mtt/pull/361) Update dependency @types/jest to v29.5.10 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#360](https://github.com/tanem/mtt/pull/360) Update dependency tanem-scripts to v7.0.24 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#359](https://github.com/tanem/mtt/pull/359) Update dependency @types/node to v20.9.3 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#358](https://github.com/tanem/mtt/pull/358) Update dependency @types/jest to v29.5.9 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#357](https://github.com/tanem/mtt/pull/357) Update typescript-eslint monorepo to v6.12.0 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#356](https://github.com/tanem/mtt/pull/356) Update dependency typescript to v5.3.2 ([@renovate[bot]](https://github.com/apps/renovate))
+- [#355](https://github.com/tanem/mtt/pull/355) Update dependency @types/node to v20.9.2 ([@renovate[bot]](https://github.com/apps/renovate))
+
 ## [v1.0.51](https://github.com/tanem/mtt/tree/v1.0.51) (2023-11-21)
 [Full Changelog](https://github.com/tanem/mtt/compare/v1.0.50...v1.0.51)
 
