@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@tsconfig/node16": "16.1.4",
-    "@types/jest": "29.5.14",
+    "@types/jest": "30.0.0",
     "@types/node": "22.15.32",
     "@typescript-eslint/eslint-plugin": "7.18.0",
     "@typescript-eslint/parser": "7.18.0",
