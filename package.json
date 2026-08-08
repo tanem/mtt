@@ -15,7 +15,6 @@
     "example": "node example/index.js",
     "format": "prettier --write \"**/*.{js,ts}\"",
     "lint": "eslint .",
-    "release": "tanem-scripts release",
     "test": "jest"
   },
   "author": "Tane Morgan (https://github.com/tanem)",
@@ -52,7 +51,6 @@
     "jest": "30.2.0",
     "prettier": "3.8.1",
     "shx": "0.4.0",
-    "tanem-scripts": "8.0.4",
     "ts-jest": "29.4.6",
     "typescript": "5.9.3"
   },
