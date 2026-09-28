@@ -1,5 +1,7 @@
 # mtt
 
+> **Unmaintained.** This project is no longer maintained and the repository is archived. The npm package is deprecated.
+
 [![npm version](https://img.shields.io/npm/v/@tanem/mtt.svg?style=flat-square)](https://www.npmjs.com/package/@tanem/mtt)
 [![build status](https://img.shields.io/github/workflow/status/tanem/mtt/CI?style=flat-square)](https://github.com/tanem/mtt/actions?query=workflow%3ACI)
 [![coverage status](https://img.shields.io/codecov/c/github/tanem/mtt.svg?style=flat-square)](https://codecov.io/gh/tanem/mtt)
